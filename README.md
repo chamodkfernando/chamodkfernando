@@ -1,9 +1,8 @@
-<!-- Animated Capsule Header (Option 3) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Chamod%20Fernando&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Builder&descAlignY=55&descAlign=50"/>
 </p>
 
-<!-- Animated Typing Header -->
+
 <h1 align="center">
   Hi 👋, I'm Chamod Fernando
 </h1>
